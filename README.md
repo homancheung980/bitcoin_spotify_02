@@ -1,6 +1,6 @@
 ![Screenshot 2024-11-05 151300](images/Thumbnail.png)
 
-<h4 align="center">Spotify playlist generator based on Bitcoin fluctuations.</h4>
+<h2 align="center">Spotify playlist generator based on Bitcoin fluctuations.</h2>
 
 
 
