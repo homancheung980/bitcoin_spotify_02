@@ -51,7 +51,19 @@ Please have your [SpotifyDeveloper Account](https://developer.spotify.com/docume
 
 
 
-**2- Install libraries** 
+**2- Get the Bitcoin API** 
+
+The is a relatively simple API to obtain, all we need is a link located in the **btc_api.txt** file, which I have assigned the name "url" for the link. Alternatively you can copy the code below without having to convert strings into a variable:
+
+```HTML
+https://api.coinlore.net/api/ticker/?id=90
+```
+
+Aftersetting up the url, please use the library **urllib** to open, receive and pull out the JSON list, which I have named **"crypto_json"** in my example code.
+
+
+
+**3- Install libraries** 
 
 Please install **jupyter** and **spotipy**  in your python library as they are not by default.
 
