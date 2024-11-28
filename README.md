@@ -39,9 +39,9 @@ Please have your [SpotifyDeveloper Account](https://developer.spotify.com/docume
 
 ```bash
 {
-    "username": "46iweofuwefjnefiwrefwdfwdfwrgq", 
-    "client_id": "6e2346824f9573652153g182376535",
-    "client_secret": "41`628234058h3567f34cb1237djff45",
+    "username": "<Your username here>", 
+    "client_id": "<Your Client ID here>",
+    "client_secret": "<Your client secret here>",
     "redirect": "http://google.com"
 }
 ```

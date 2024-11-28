@@ -1,1 +1,1 @@
-https://api.coinlore.net/api/ticker/?id=90
+https://api.coinlore.net/api/ticker/?id=
